@@ -4,3 +4,4 @@ def display_rainbow(array=['red', 'orange', 'yellow', 'green', 'blue', 'indigo',
     puts "R: red"
   end
 end  
+display_rainbow()
