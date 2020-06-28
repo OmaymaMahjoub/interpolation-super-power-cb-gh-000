@@ -3,5 +3,5 @@ def display_rainbow(array=['red', 'orange', 'yellow', 'green', 'blue', 'indigo',
   if 'red'in array
     puts "R: red"
   end
-end  
+end
 display_rainbow()
